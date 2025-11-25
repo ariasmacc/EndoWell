@@ -1,7 +1,7 @@
 
   # EndoWell
 
-  This is a code bundle for EndoWell. The original project is available at https://www.figma.com/design/t4IiNGO58KKlSf00Fb0aiH/EndoWell.
+  This website is for those women who have Endometriosis and for those who want to hav nowledge about Endometrioss
 
   ## Running the code
 
