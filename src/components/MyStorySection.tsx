@@ -25,11 +25,11 @@ export function MyStorySection() {
           <div className="prose prose-lg max-w-none">
             <div className="space-y-6 text-gray-700">
               <p>
-                Let's go back to the beginning. I got my first period when I was 13, back in Junior High. Even then, my cycle was irregular—there were times I wouldn't get my period for three whole months. I thought it was normal, and honestly, I was too shy to open up to my family about it.
+                Let's go back to the beginning. I got my first period when I was 13, back in Junior High. Even then, my cycle was irregular there were times I wouldn't get my period for three whole months. I thought it was normal, and honestly, I was too shy to open up to my family about it.
               </p>
 
               <p>
-                For context, I was very active growing up. I played basketball throughout my five years in high school—morning practices, P.E. classes, and especially during intramurals. But when the pandemic hit and we went into quarantine, my active lifestyle completely stopped.
+                For context, I was very active growing up. I played basketball throughout my five years in high school morning practices, P.E. classes, and especially during intramurals. But when the pandemic hit and we went into quarantine, my active lifestyle completely stopped.
               </p>
 
               <p>
@@ -58,7 +58,7 @@ export function MyStorySection() {
                     </div>
 
                     <p>
-                      By my first year of college, I would spend five days straight in bed—I couldn't even take a shower because of the pain. I struggled to use the bathroom, lost my appetite, and couldn't keep food down.
+                      By my first year of college, I would spend five days straight in bed I couldn't even take a shower because of the pain. I struggled to use the bathroom, lost my appetite, and couldn't keep food down.
                     </p>
 
                     <p>
@@ -98,11 +98,11 @@ export function MyStorySection() {
                     </p>
 
                     <p>
-                      During a follow-up, surgery was suggested again because the pills weren't a guaranteed fix for a 9cm mass. I cried again—I didn't want surgery, not just because of the cost, but because the doctor said there was no guarantee the Endometriosis wouldn't come back.
+                      During a follow-up, surgery was suggested again because the pills weren't a guaranteed fix for a 9cm mass. I cried again, I didn't want surgery, not just because of the cost, but because the doctor said there was no guarantee the Endometriosis wouldn't come back.
                     </p>
 
                     <p>
-                      After the diagnosis, I started connecting the dots. The constant bloating, the chin breakouts, the hair loss—it was all connected. So, I decided to take control.
+                      After the diagnosis, I started connecting the dots. The constant bloating, the chin breakouts, the hair loss it was all connected. So, I decided to take control.
                     </p>
 
                     <div className="bg-gradient-to-r from-pink-50 to-purple-50 p-8 rounded-xl border-2 border-pink-200 my-8">
@@ -138,7 +138,7 @@ export function MyStorySection() {
                     </div>
 
                     <p>
-                      For months, this was my life. When I started the pills, my period stopped completely (a known side effect), but my family didn't even know the extent of what I was going through. (I told them on a random day and they were all shocked HAHAHA—though, I explained to them that it was a side effect of my pills.) Physically, I changed a lot. I went from 54kg down to 44kg due to the strict "low carb" diet and exercise.
+                      For months, this was my life. When I started the pills, my period stopped completely (a known side effect), but my family didn't even know the extent of what I was going through. (I told them on a random day and they were all shocked HAHAHA though, I explained to them that it was a side effect of my pills.) Physically, I changed a lot. I went from 54kg down to 44kg due to the strict "low carb" diet and exercise.
                     </p>
 
                     <div className="bg-green-50 border-l-4 border-green-400 p-6 rounded-r-lg">
@@ -159,11 +159,11 @@ export function MyStorySection() {
                     </div>
 
                     <p>
-                      Although a new small cyst (3cm) appeared on the other ovary, the doctor said it was manageable. She told me to keep doing exactly what I was doing—continue the pills and my routine—and that surgery was no longer necessary since the risk of recurrence was high anyway.
+                      Although a new small cyst (3cm) appeared on the other ovary, the doctor said it was manageable. She told me to keep doing exactly what I was doing continue the pills and my routine and that surgery was no longer necessary since the risk of recurrence was high anyway.
                     </p>
 
                     <p>
-                      I felt a massive wave of relief. I used to live in fear that the cyst would rupture and send me back to the ER. Sometimes I even missed my pills, but knowing that my hard work—the herbal remedies (Yes, my parents make me drink different teas like boiled moringa with ginger and lemongrass—it tastes like tinola; leaves of bitter melon and tamarind or serpentina because they're so bitter; garlic; and my favorite tea is sibukaw—but I'm not saying that these would help to shrink your cyst, it's just both of my parents believe in the healing of herbs and teas), the diet, the exercise—actually paid off makes me so happy.
+                      I felt a massive wave of relief. I used to live in fear that the cyst would rupture and send me back to the ER. Sometimes I even missed my pills, but knowing that my hard work and the herbal remedies (Yes, my parents make me drink different teas like boiled moringa with ginger and lemongrass it tastes like tinola; leaves of bitter melon and tamarind or serpentina because they're so bitter; garlic; and my favorite tea is sibukaw but I'm not saying that these would help to shrink your cyst, it's just both of my parents believe in the healing of herbs and teas), the diet, the exercise actually paid off makes me so happy.
                     </p>
 
                     <div className="bg-gradient-to-r from-pink-100 to-purple-100 p-8 rounded-xl border-2 border-purple-300 my-8 text-center">

@@ -28,8 +28,8 @@ export function DietSection() {
         {/* Foods to Embrace and Limit Tabs */}
         <Tabs defaultValue="embrace" className="mb-12">
           <TabsList className="grid w-full max-w-md mx-auto grid-cols-2 mb-8">
-            <TabsTrigger value="embrace">🟢 Foods to Embrace</TabsTrigger>
-            <TabsTrigger value="limit">🔴 Foods to Limit</TabsTrigger>
+            <TabsTrigger value="embrace">Foods to Embrace</TabsTrigger>
+            <TabsTrigger value="limit">Foods to Limit</TabsTrigger>
           </TabsList>
           
           {/* Foods to Embrace */}
@@ -351,36 +351,36 @@ export function DietSection() {
         <Card className="p-8 bg-gradient-to-br from-purple-50 to-pink-50 border-2 border-purple-200 mb-12">
           <div className="flex items-center justify-center gap-3 mb-6">
             <Utensils className="w-8 h-8 text-purple-600" />
-            <h3 className="text-center text-purple-900">💡 A Simple Rule of Thumb</h3>
+            <h3 className="text-center text-purple-900">A Simple Rule of Thumb</h3>
           </div>
           <p className="text-center text-gray-700 mb-6">
             Imagine your plate is divided into four parts:
           </p>
           <div className="grid md:grid-cols-4 gap-4 mb-6">
             <Card className="p-4 bg-white border-2 border-green-200 text-center">
-              <div className="mb-2">
-                <span className="text-3xl">🥗</span>
+              <div className="mb-2 text-3xl">
+                <Leaf className="w-8 h-8 text-green-600 inline-block" />
               </div>
               <h4 className="text-green-900 mb-2">1/2 of the plate:</h4>
               <p className="text-sm text-gray-700">Vegetables (Greens, Broccoli, Salad)</p>
             </Card>
             <Card className="p-4 bg-white border-2 border-blue-200 text-center">
-              <div className="mb-2">
-                <span className="text-3xl">🐟</span>
+              <div className="mb-2 text-3xl">
+                <Fish className="w-8 h-8 text-blue-600 inline-block" />
               </div>
               <h4 className="text-blue-900 mb-2">1/4 of the plate:</h4>
               <p className="text-sm text-gray-700">Protein (Fish, Chicken, Tofu)</p>
             </Card>
             <Card className="p-4 bg-white border-2 border-orange-200 text-center">
-              <div className="mb-2">
-                <span className="text-3xl">🍠</span>
+              <div className="mb-2 text-3xl">
+                <Apple className="w-8 h-8 text-orange-600 inline-block" />
               </div>
               <h4 className="text-orange-900 mb-2">1/4 of the plate:</h4>
               <p className="text-sm text-gray-700">Healthy Carb (Red Rice, Kamote)</p>
             </Card>
             <Card className="p-4 bg-white border-2 border-teal-200 text-center">
-              <div className="mb-2">
-                <span className="text-3xl">🫖</span>
+              <div className="mb-2 text-3xl">
+                <Sparkles className="w-8 h-8 text-teal-600 inline-block" />
               </div>
               <h4 className="text-teal-900 mb-2">Drink:</h4>
               <p className="text-sm text-gray-700">Water or Ginger tea</p>
@@ -468,7 +468,7 @@ export function DietSection() {
 
           {/* 2. THE "ALLOWED" LIST */}
           <Card className="p-8 bg-green-50 border-2 border-green-200">
-            <h3 className="mb-6 text-green-900">✅ 2. THE "ALLOWED" LIST (Eat These)</h3>
+            <h3 className="mb-6 text-green-900">2. THE "ALLOWED" LIST (Eat These)</h3>
 
             <div className="space-y-6">
               {/* A. Safe Local Fish */}
@@ -479,7 +479,7 @@ export function DietSection() {
                 </p>
                 <div className="bg-green-50 p-4 rounded-lg">
                   <p className="text-gray-700">
-                    <strong>✅ Safe to eat:</strong> Anchovies (Dilis), Tilapia, Milkfish (Bangus), Mackerel (Galunggong - smaller ones are safer), Catfish (Hito), Squid, and Shrimp.
+                    <strong>Safe to eat:</strong> Anchovies (Dilis), Tilapia, Milkfish (Bangus), Mackerel (Galunggong - smaller ones are safer), Catfish (Hito), Squid, and Shrimp.
                   </p>
                 </div>
               </div>
@@ -493,12 +493,12 @@ export function DietSection() {
                 <div className="space-y-3">
                   <div className="bg-green-50 p-4 rounded-lg">
                     <p className="text-gray-700 mb-2">
-                      <strong>✅ Safe choices:</strong> Avocado, Pineapple, Papaya, Banana, Mango, Sweet Corn, and Sweet Potato (Kamote).
+                      <strong>Safe choices:</strong> Avocado, Pineapple, Papaya, Banana, Mango, Sweet Corn, and Sweet Potato (Kamote).
                     </p>
                   </div>
                   <div className="bg-green-50 p-4 rounded-lg">
                     <p className="text-gray-700">
-                      <strong>✅ Cruciferous Veggies:</strong> Cabbage (Repolyo), Broccoli, Cauliflower.
+                      <strong>Cruciferous Veggies:</strong> Cabbage (Repolyo), Broccoli, Cauliflower.
                     </p>
                     <p className="text-sm text-green-700 mt-2">
                       <strong>Note:</strong> These are special because they actually help your liver "flush out" excess estrogen!
@@ -512,11 +512,11 @@ export function DietSection() {
                 <h4 className="text-green-900 mb-3">C. Safer Carbs</h4>
                 <ul className="space-y-3 text-gray-700">
                   <li className="flex items-start gap-2">
-                    <span className="text-green-600">✅</span>
+                    <span className="text-green-600">•</span>
                     <span><strong>Rice:</strong> White or Brown rice is generally safe, but wash it very thoroughly before cooking.</span>
                   </li>
                   <li className="flex items-start gap-2">
-                    <span className="text-green-600">✅</span>
+                    <span className="text-green-600">•</span>
                     <span><strong>Root Crops:</strong> Sweet Potato and Cassava are great nutritious alternatives to processed bread.</span>
                   </li>
                 </ul>
@@ -528,7 +528,7 @@ export function DietSection() {
           <Card className="p-8 bg-blue-50 border-2 border-blue-200">
             <div className="flex items-center gap-3 mb-6">
               <ShoppingCart className="w-8 h-8 text-blue-600" />
-              <h3 className="text-blue-900">🛒 3. PRACTICAL MARKET TIPS</h3>
+              <h3 className="text-blue-900">3. PRACTICAL MARKET TIPS</h3>
             </div>
             <p className="text-gray-700 mb-6">
               You don't need to be wealthy to follow this diet; you just need to be smart with preparation.
